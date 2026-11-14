@@ -2,11 +2,11 @@
 {
     class Book
     {
-        private string title; // private field
-        private string author; // private field
-        private string isbn; // private field
+        private string title; // field
+        private string author; // field
+        private string isbn; // field
 
-        // Title property allows access
+        // Title property to allow access
         // to the title private field
         public string Title
         {
